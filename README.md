@@ -2,7 +2,7 @@
 
 Requirements:
 
--Docker
+-Docker <br>
 -Docker Compose
 
 before running "docker-compose up -d" for the first time, u need to run the following commands:
