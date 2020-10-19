@@ -17,3 +17,6 @@ now u can run:
 ''' <br>
 docker-compose up -d
 '''
+
+migrating database mysql <br>
+docker-compose exec php php artisan migrate
