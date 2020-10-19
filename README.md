@@ -14,6 +14,6 @@ docker-compose run --rm node npm install <br>
 
 now u can run:
 
-'''bash
+''' <br>
 docker-compose up -d
 '''
